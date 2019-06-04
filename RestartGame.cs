@@ -7,6 +7,6 @@ public class RestartGame : MonoBehaviour
 {
 	public void SceneSwitcher()
 	{
-		SceneManager.LoadScene(1);
+		SceneManager.LoadScene(2);
 	}
 }
